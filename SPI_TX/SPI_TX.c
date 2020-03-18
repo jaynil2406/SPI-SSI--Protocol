@@ -42,7 +42,7 @@ int main(void)
        putsUart0("Enter a Valid Command:\r\n :) :) \r\n");
 
 
-       SSI2_DR_R =a;
+       SSI2_DR_R =a;   //Send out the data through SSI(SPI)
    }
 
 }
