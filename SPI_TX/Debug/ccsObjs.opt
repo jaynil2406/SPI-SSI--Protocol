@@ -1,0 +1,1 @@
+"./SPI_TX.obj" "./SPI_TXinit.obj" "./getString.obj" "./ledpb.obj" "./stringReplacement.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uart0.obj" "../tm4c123gh6pm.cmd" -llibc.a 
